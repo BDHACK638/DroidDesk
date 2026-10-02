@@ -12,10 +12,6 @@ Connect your phone to a monitor and it becomes a Linux PC. Unplug it and your en
 > - **Source and licenses:** <https://github.com/orailnoor/DroidDesk>
 > - **Termux:X11 upstream:** <https://github.com/termux/termux-x11>
 
-## Video
-
-[![Watch the video](https://img.youtube.com/vi/QCr4WWsfVv8/maxresdefault.jpg)](https://youtu.be/QCr4WWsfVv8)
-
 ## What This Actually Runs
 
 Everything below has been tested and confirmed working:
